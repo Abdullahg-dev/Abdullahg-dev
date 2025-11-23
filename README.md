@@ -1,5 +1,5 @@
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1500&color=1ABC9C&width=900&lines=Hi%2C+I%27m+Abdullah+Gamal;Senior+WordPress+Architect;Full-Stack+Web+Engineer;UI%2FUX+Enthusiast;9%2B+Years+of+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=1ABC9C&width=800&lines=Hi%2C+I%27m+Abdullah+Gamal;WordPress+Developer;+UI%2FUX+Enthusiast;+Full-Stack+Web+Engineer;+9+Years+of+Experience)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -19,7 +19,7 @@ I'm **Abdullah G.** (Abdullah Gamal), a seasoned **Web Developer, Business Owner
 
 ## 🛠 Core Skills & Technologies
 
-The following tools and languages represent my primary working stack. I've adjusted the shield color to match the animated header (`1ABC9C`) for better visual consistency.
+The following tools and languages represent my primary working stack.
 
 ### 🚀 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-1B1B1B?style=for-the-badge&logo=html5&logoColor=E34F26)
