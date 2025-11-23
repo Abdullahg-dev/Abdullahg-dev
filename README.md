@@ -1,5 +1,5 @@
 <!-- Animated typing header (GitHub-safe) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=1ABC9C&width=800&lines=Hi%2C+I%27m+Abdullah+G.;WordPress+Developer;+UI%2FUX+Enthusiast;+Full-Stack+Web+Engineer;+9+Years+of+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=1ABC9C&width=800&lines=Hi%2C+I%27m+Abdullah+Gamal;WordPress+Developer;+UI%2FUX+Enthusiast;+Full-Stack+Web+Engineer;+9+Years+of+Experience)](https://git.io/typing-svg)
 
 ---
 
@@ -43,7 +43,6 @@ Hi, I’m **Abdullah G.** (Abdullah Gamal) — a seasoned Web Developer, Busines
 ### 🛠 Tools & Dev  
 ![Git](https://img.shields.io/badge/Git-1B1B1B?style=for-the-badge&logo=git&logoColor=F05032)  
 ![GitHub](https://img.shields.io/badge/GitHub-1B1B1B?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS Code-1B1B1B?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4)
 
 ---
 
