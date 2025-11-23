@@ -6,72 +6,80 @@
 
 ## 👨‍💻 About Me & Expertise
 
-I'm **Abdullah G.** (Abdullah Gamal), a seasoned **Web Developer, Business Owner, Author, and Mentor** based in Egypt. With **9+ years of professional experience**, I specialize in transforming complex requirements into high-quality, performant, and user-centered digital products.
+I'm **Abdullah G.** (Abdullah Gamal), a highly accomplished **Senior Web Developer, Business Owner, Author, and Mentor** based in Egypt. With **12+ years of professional experience**, I excel at architecting, developing, and optimizing complex digital platforms. I specialize in bridging high-level business requirements with clean, scalable code.
 
-> **My Mission:** Delivering robust web solutions, from custom themes and plugins in WordPress to full-stack applications, that drive business value. I have proudly partnered with **250+ clients** and successfully launched **620+ websites**.
+> **My Impact:** I have proudly partnered with **250+ clients** and successfully delivered over **620 websites**, focusing on maximizing performance, security, and user experience.
 
-* ⭐ **WordPress Mastery:** Expert in architecture, custom theme/plugin development, performance optimization, and robust support services.
-* 💻 **Full-Stack Proficiency:** Bridging the gap between design and functionality using PHP, Node.js, and modern frontend frameworks.
-* 🛍️ **E-commerce Solutions:** Highly experienced in architecting and customizing scalable online stores using WooCommerce.
-* 🎨 **UI/UX Focus:** Committed to integrating user-centered design principles for truly delightful experiences.
+* **⭐ Core Focus:** Enterprise-level WordPress architecture and full-stack development (PHP, Node.js).
+* **📈 Measurable Results:** Proven ability to enhance site speed, reduce load times, and improve SEO ranking for clients.
+* **🤝 Business Acumen:** Combining technical expertise with the perspective of a Business Owner and Mentor.
 
 ---
 
-## 🛠 Core Skills & Technologies
+## 🛠 Comprehensive Skill Breakdown
 
-The following tools and languages represent my primary working stack.
+My expertise spans the entire development lifecycle, from sophisticated UI implementation to robust database management and performance tuning.
 
-### 🚀 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-1B1B1B?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1B1B1B?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1B1B1B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-1B1B1B?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Sass](https://img.shields.io/badge/Sass-1B1B1B?style=for-the-badge&logo=sass&logoColor=CC6699)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1B1B1B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+### 🌐 Frontend & UI/UX Mastery
 
-### ⚙️ Backend & CMS Architecture
-![PHP](https://img.shields.io/badge/PHP-1ABC9C?style=for-the-badge&logo=php&logoColor=777BB4)
-![WordPress](https://img.shields.io/badge/WordPress-1ABC9C?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-1ABC9C?style=for-the-badge&logo=woocommerce&logoColor=96588A)
-![Node.js](https://img.shields.io/badge/Node.js-1B1B1B?style=for-the-badge&logo=node.js&logoColor=339933)
-![MySQL](https://img.shields.io/badge/MySQL-1B1B1B?style=for-the-badge&logo=mysql&logoColor=4479A1)
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | `HTML5 (Semantic)` • `CSS3` • `JavaScript (ES5/ES6+)` |
+| **Frameworks** | `ReactJS` • `Redux` • `jQuery` |
+| **Styling** | `SASS / SCSS` • `TailwindCSS` • `Bootstrap` • `BEM Methodology` |
+| **Animation/Design** | `GSAP` • `UI/UX Principles` • `Figma/Sketch Prototyping` |
+| **Performance** | `Responsive Design (Mobile-First)` • `Web Vitals Optimization` |
+
+### ⚙️ Backend & WordPress Architecture
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Core Languages** | `PHP (OOP)` • `Node.js` • `RESTful API Design` |
+| **Databases** | `MySQL` • `SQL` • `Data Structure` |
+| **WordPress Ecosystem** | `Custom Themes (from scratch)` • `Custom Plugin Development` • `Gutenberg Blocks` • `ACF Pro` • `WP-CLI` |
+| **E-commerce** | `WooCommerce (Advanced Customization & Extension)` • `Payment Gateway Integration` |
+| **Performance/DevOps**| `WP Rocket Configuration` • `LiteSpeed Cache` • `CPanel/WHM` • `DNS Management` |
+| **Advanced** | `C++` • `Algorithms` • `SEO Best Practices` |
 
 ### 🛠 Tools & Environment
 ![Git](https://img.shields.io/badge/Git-1B1B1B?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1B1B1B?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1B1B1B?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![VS Code](https://img.shields.io/badge/VS_Code-1B1B1B?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![npm](https://img.shields.io/badge/npm-1B1B1B?style=for-the-badge&logo=npm&logoColor=CB3837)
+![REST](https://img.shields.io/badge/REST_API-1B1B1B?style=for-the-badge&logo=rest&logoColor=000000)
 
 ---
 
 ## 📂 Featured Portfolio Projects
 
-A selection of real-world projects demonstrating my capability across various sectors. Find the full case studies on my portfolio.
+A quick look at some key projects demonstrating versatility and impact. Full case studies are available on my portfolio.
 
-| Project Name | Sector/Focus | Highlight |
+| Project Name | Sector/Focus | Key Technical Highlight |
 | :--- | :--- | :--- |
-| **Hijri** | Web App Utility | Online calendar & date converter application. |
-| **FullScreen** | Digital Marketing | Comprehensive digital marketing website. |
-| **Marketing Spirit** | Corporate Profile | Professional company profile site. |
-| **Az River Gate** | Real Estate | High-conversion real estate landing page. |
-| **360 Day Care** | SaaS Landing Page | Focused landing page design for a SaaS product. |
+| **FullScreen** | Digital Marketing | High-performance, SEO-optimized corporate site build. |
+| **Hijri** | Web App Utility | Custom JavaScript/PHP logic for date conversion functionality. |
+| **Az River Gate** | Real Estate | Highly effective, responsive landing page for lead generation. |
+| **360 Day Care** | SaaS Landing Page | Modern design and component structure for clear messaging. |
 
 ---
 
 ## 📊 GitHub Activity & Stats
 
+I actively contribute and manage projects here. Check out my pinned repositories for my latest work!
+
 <div align="center">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=/Abdullahg-dev&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=/Abdullahg-dev&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-g&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Abdullah Gamal GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-g&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 </div>
 
 ---
 
-## ✉️ Let's Connect!
+## ✉️ Let's Connect & Collaborate!
 
-I am always available for project discussions, consulting, or just a quick chat about web development.
+I am actively seeking challenging new projects, consulting roles, or mentorship opportunities. Reach out via your preferred method.
 
 <p align="center">
   <a href="https://abdullah-g.com/" target="_blank">
@@ -88,9 +96,9 @@ I am always available for project discussions, consulting, or just a quick chat 
 ***
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=1ABC9C" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=abdullah-g&color=1ABC9C" alt="Profile views">
 </p>
 
 <p align="center">
-  Thank you for visiting my GitHub profile. Let's create impactful digital experiences together!
+  Committed to building stable, high-performance web solutions. Let's create impactful digital experiences together!
 </p>
