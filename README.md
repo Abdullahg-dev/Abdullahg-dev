@@ -1,6 +1,6 @@
-<div align="center">
+<!-- Animated typing header (GitHub-safe) -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=1ABC9C&width=800&lines=Hi%2C+I%27m+Abdullah+Gamal;WordPress+Developer;+UI%2FUX+Enthusiast;+Full-Stack+Web+Engineer;+9+Years+of+Experience)](https://git.io/typing-svg)
-</div>
 
 ---
 
