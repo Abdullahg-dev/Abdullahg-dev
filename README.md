@@ -1,79 +1,96 @@
-<!-- Animated typing header (GitHub-safe) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=1ABC9C&width=800&lines=Hi%2C+I%27m+Abdullah+Gamal;WordPress+Developer;+UI%2FUX+Enthusiast;+Full-Stack+Web+Engineer;+9+Years+of+Experience)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1500&color=1ABC9C&width=900&lines=Hi%2C+I%27m+Abdullah+Gamal;Senior+WordPress+Architect;Full-Stack+Web+Engineer;UI%2FUX+Enthusiast;9%2B+Years+of+Experience)](https://git.io/typing-svg)
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me & Expertise
 
-Hi, I’m **Abdullah G.** (Abdullah Gamal) — a seasoned Web Developer, Business Owner, Author, and Mentor based in Menoufia, Egypt. I bring **9+ years of professional experience** and a deep passion for building high-quality digital products. :contentReference[oaicite:0]{index=0}  
+I'm **Abdullah G.** (Abdullah Gamal), a seasoned **Web Developer, Business Owner, Author, and Mentor** based in Egypt. With **9+ years of professional experience**, I specialize in transforming complex requirements into high-quality, performant, and user-centered digital products.
 
-- ✨ Expert in **WordPress**: custom themes, plugins, and support. :contentReference[oaicite:1]{index=1}  
-- 🎨 UI/UX design experience to deliver delightful, user-centered interfaces. :contentReference[oaicite:2]{index=2}  
-- 💻 Full-stack developer: leveraging PHP, Node.js, MySQL, and more. :contentReference[oaicite:3]{index=3}  
-- 🛍️ Ecommerce (WooCommerce) & business-critical sites development. :contentReference[oaicite:4]{index=4}  
-- 🌍 Remote / Freelance work — I’ve worked with 250+ clients and built 620+ websites. :contentReference[oaicite:5]{index=5}  
+> **My Mission:** Delivering robust web solutions, from custom themes and plugins in WordPress to full-stack applications, that drive business value. I have proudly partnered with **250+ clients** and successfully launched **620+ websites**.
 
----
-
-## 🌐 Portfolio & Online Presence
-
-- 💼 **Portfolio Website**: [abdullah-g.com](https://abdullah-g.com/) — check out my work and case studies. :contentReference[oaicite:6]{index=6}  
-- 🔗 **LinkedIn**: [Abdullah Gamal](https://www.linkedin.com/in/abdullah-gamal-207690133/) — connect with me professionally  
-- 📧 **Email**: Abdullahg.dev@gmail.com  
+* ⭐ **WordPress Mastery:** Expert in architecture, custom theme/plugin development, performance optimization, and robust support services.
+* 💻 **Full-Stack Proficiency:** Bridging the gap between design and functionality using PHP, Node.js, and modern frontend frameworks.
+* 🛍️ **E-commerce Solutions:** Highly experienced in architecting and customizing scalable online stores using WooCommerce.
+* 🎨 **UI/UX Focus:** Committed to integrating user-centered design principles for truly delightful experiences.
 
 ---
 
-## 🧰 My Skills & Tools
+## 🛠 Core Skills & Technologies
 
-### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-1B1B1B?style=for-the-badge&logo=html5&logoColor=E34F26)  
-![CSS3](https://img.shields.io/badge/CSS3-1B1B1B?style=for-the-badge&logo=css3&logoColor=1572B6)  
-![JavaScript](https://img.shields.io/badge/JavaScript-1B1B1B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1B1B1B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)  
+The following tools and languages represent my primary working stack. I've adjusted the shield color to match the animated header (`1ABC9C`) for better visual consistency.
+
+### 🚀 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-1B1B1B?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1B1B1B?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1B1B1B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-1B1B1B?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Sass](https://img.shields.io/badge/Sass-1B1B1B?style=for-the-badge&logo=sass&logoColor=CC6699)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1B1B1B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
-### ⚙️ Backend  
-![PHP](https://img.shields.io/badge/PHP-1B1B1B?style=for-the-badge&logo=php&logoColor=777BB4)  
-![WordPress](https://img.shields.io/badge/WordPress-1B1B1B?style=for-the-badge&logo=wordpress&logoColor=white)  
-![WooCommerce](https://img.shields.io/badge/WooCommerce-1B1B1B?style=for-the-badge&logo=woocommerce&logoColor=96588A)  
-![Node.js](https://img.shields.io/badge/Node.js-1B1B1B?style=for-the-badge&logo=node.js&logoColor=339933)  
+### ⚙️ Backend & CMS Architecture
+![PHP](https://img.shields.io/badge/PHP-1ABC9C?style=for-the-badge&logo=php&logoColor=777BB4)
+![WordPress](https://img.shields.io/badge/WordPress-1ABC9C?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-1ABC9C?style=for-the-badge&logo=woocommerce&logoColor=96588A)
+![Node.js](https://img.shields.io/badge/Node.js-1B1B1B?style=for-the-badge&logo=node.js&logoColor=339933)
 ![MySQL](https://img.shields.io/badge/MySQL-1B1B1B?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-### 🛠 Tools & Dev  
-![Git](https://img.shields.io/badge/Git-1B1B1B?style=for-the-badge&logo=git&logoColor=F05032)  
-![GitHub](https://img.shields.io/badge/GitHub-1B1B1B?style=for-the-badge&logo=github&logoColor=white)  
+### 🛠 Tools & Environment
+![Git](https://img.shields.io/badge/Git-1B1B1B?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1B1B1B?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1B1B1B?style=for-the-badge&logo=docker&logoColor=2496ED)
+![VS Code](https://img.shields.io/badge/VS_Code-1B1B1B?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
-## 📂 Featured Projects from My Portfolio
+## 📂 Featured Portfolio Projects
 
-Here are some real-world projects I’ve built (from my website) — check them on my portfolio too:
+A selection of real-world projects demonstrating my capability across various sectors. Find the full case studies on my portfolio.
 
-- **FullScreen** — Saudi digital marketing website :contentReference[oaicite:7]{index=7}  
-- **Marketing Spirit** — Digital marketing company profile site :contentReference[oaicite:8]{index=8}  
-- **Hijri** — Online calendar & date converter app :contentReference[oaicite:9]{index=9}  
-- **Az River Gate** — Real estate landing page website :contentReference[oaicite:10]{index=10}  
-- **360 Day Care** — SaaS landing page :contentReference[oaicite:11]{index=11}  
+| Project Name | Sector/Focus | Highlight |
+| :--- | :--- | :--- |
+| **Hijri** | Web App Utility | Online calendar & date converter application. |
+| **FullScreen** | Digital Marketing | Comprehensive digital marketing website. |
+| **Marketing Spirit** | Corporate Profile | Professional company profile site. |
+| **Az River Gate** | Real Estate | High-conversion real estate landing page. |
+| **360 Day Care** | SaaS Landing Page | Focused landing page design for a SaaS product. |
 
 ---
 
 ## 📊 GitHub Activity & Stats
 
+<div align="center">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-g&show_icons=true&theme=radical&hide_border=true" width="49%" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-g&layout=compact&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+</div>
+
+---
+
+## ✉️ Let's Connect!
+
+I am always available for project discussions, consulting, or just a quick chat about web development.
+
+<p align="center">
+  <a href="https://abdullah-g.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-abdullah--g.com-1ABC9C?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-gamal-207690133/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Gamal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:Abdullahg.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Abdullahg.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 </p>
 
----
+***
 
-## ✉️ Get in Touch
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=1ABC9C" alt="Profile views">
+</p>
 
-If you want to talk about a project or just say hi — feel free to contact me:
-
-- 📧 Email: Abdullahg.dev@gmail.com  
-- 🌍 Website: [abdullah-g.com](https://abdullah-g.com/)  
-- 🔗 LinkedIn: [Abdullah Gamal](https://www.linkedin.com/in/abdullah-gamal-207690133/)  
-
----
-
-Thank you for visiting my GitHub. Let’s build something meaningful together.  
+<p align="center">
+  Thank you for visiting my GitHub profile. Let's create impactful digital experiences together!
+</p>
