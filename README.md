@@ -11,7 +11,6 @@ Hi, I’m **Abdullah G.** (Abdullah Gamal) — a seasoned Web Developer, Busines
 - 🎨 UI/UX design experience to deliver delightful, user-centered interfaces. :contentReference[oaicite:2]{index=2}  
 - 💻 Full-stack developer: leveraging PHP, Node.js, MySQL, and more. :contentReference[oaicite:3]{index=3}  
 - 🛍️ Ecommerce (WooCommerce) & business-critical sites development. :contentReference[oaicite:4]{index=4}  
-- 🔧 Tool builder: I also develop custom developer tools like page builders.  
 - 🌍 Remote / Freelance work — I’ve worked with 250+ clients and built 620+ websites. :contentReference[oaicite:5]{index=5}  
 
 ---
